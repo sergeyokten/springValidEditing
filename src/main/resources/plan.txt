@@ -1,0 +1,15 @@
+- UserDetails +
+- DAO -> findUserByName +
+- UserDetailsService -> loadUserByUsername(String name) +
+- config
+    - bean UDS +
+    - password encoder +
+    - daoAuthProvider+
+    - in memmory obj +
+    - authorize request +
+    - login +
+    - hide +
+    - logout +
+    - csrf+
+    - csrf rest +
+    - dao save
